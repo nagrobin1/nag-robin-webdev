@@ -12,6 +12,6 @@ require ("./test/app.js")(app);
 
 var port = process.env.PORT || 3000;
 
-console.log("Started");
+// console.log("Started");
 
 app.listen(port);

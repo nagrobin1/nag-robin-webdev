@@ -8,6 +8,7 @@
             };
         });
 
+
     function TestController($http) {
         var vm = this;
         vm.createMessage = createMessage;
